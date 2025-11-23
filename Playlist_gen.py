@@ -1,8 +1,3 @@
-"""
-CS 521 Fall 2023 A3
-Name: {Aaron Taylor}
-Assignment: {Project}
-"""
 class Playlist:
     def __init__(self, data, prompt):
         self.__data = data
